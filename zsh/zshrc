@@ -13,11 +13,3 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
-
-[ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
-
-alias g="jump"
-alias s="bookmark"
-alias d="deletemark"
-alias p="showmarks"
-alias l="showmarks"
